@@ -4,8 +4,9 @@ fruits-360-original-size/
 o-vs-r-split/
 
 # Model files
-O_R_tlearn_vgg16.keras
 *.keras
+O_R_tlearn_vgg16.keras
+O_R_tlearn_fine_tune_vgg16.keras
 
 # Python/Jupyter
 __pycache__/
