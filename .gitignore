@@ -1,2 +1,9 @@
-fruits-360-original-size/
+# Dataset files/folders
 fruits-360-original-size.zip
+fruits-360-original-size/
+o-vs-r-split/
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
