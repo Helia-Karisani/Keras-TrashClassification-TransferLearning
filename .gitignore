@@ -3,6 +3,10 @@ fruits-360-original-size.zip
 fruits-360-original-size/
 o-vs-r-split/
 
+# Model files
+O_R_tlearn_vgg16.keras
+*.keras
+
 # Python/Jupyter
 __pycache__/
 .ipynb_checkpoints/
